@@ -33,7 +33,7 @@ describe('App Tests', () => {
     expect(button).toHaveTextContent('Validar');
   });
 
-  //Los que yo hice
+  //Los que yo agregue
 
   //Implement button should have a click event test
   test('button should have a click event', () => {
